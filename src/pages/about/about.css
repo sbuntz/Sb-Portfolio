@@ -1,0 +1,152 @@
+
+.about-image img {
+    width: 100%;
+}
+
+.about-content {
+    padding-left: 85px;
+}
+
+.about-content .block-title {
+    font-size: 24px;
+    line-height: 1;
+    font-weight: 600;
+    letter-spacing: 0.75px;
+    margin-bottom: 28px;
+}
+
+@media (max-width: 767px) {
+    .about-content .block-title {
+        margin-bottom: 20px;
+    }
+}
+
+.about-content p {
+    letter-spacing: 0.75px;
+    font-size: 12px !important;
+}
+
+@media (min-width: 1200px) and (max-width: 1599px) 
+{
+    .about-content {
+        padding-left: 45px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px)
+{
+    .about-content {
+        padding-left: 15px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px)
+{
+    .about-content {
+        padding-left: 15px;
+    }
+}
+
+@media (max-width: 767px)
+{
+    .about-content {
+        padding-left: 15px;
+    }
+}
+
+.personal-info {
+
+    margin-bottom: 20px;
+    padding-top: 20px;
+}
+
+@media (max-width: 767px)
+ {
+    .personal-info {
+        margin-bottom: 40px;
+    }
+}
+
+.personal-info li {
+    font-size: 12px;
+    line-height: 20px;
+    margin-bottom: 10px;
+}
+
+.personal-info li span {
+    margin-right: 10px;
+    margin-left: 15px;
+}
+
+.personal-info:last-child {
+    margin-bottom: 0;
+}
+
+.personal-info:last-child li {
+    margin-bottom: 0;
+}
+
+.skill-wrap {
+    float: left;
+    width: 100%;
+    clear: both;
+    padding-left: 10px;
+}
+
+.single-skill {
+    float: left;
+    width: 100%;
+    clear: both;
+    margin-bottom: 30px;
+
+}
+
+.single-skill:last-child {
+    margin-bottom: 0;
+}
+
+.single-skill span {
+    display: block;
+    font-size: 12px;
+    line-height: 1;
+    letter-spacing: 1px;
+    margin-bottom: 12px;
+}
+
+.single-skill .skill-bar {
+    display: block;
+    width: 100%;
+    height: px;
+    background-color: #dbdbdb;
+    padding: 1px;
+}
+
+.single-skill .skill-bar .skill-progress {
+    display: block;
+    height: 100%;
+    position: relative;
+}
+
+.single-skill .skill-bar .skill-progress::before {
+    content: attr(data-progress);
+    position: absolute;
+    right: 0;
+    bottom: 15px;
+    font-size: 10px;
+    line-height: 1;
+    letter-spacing: 1px;
+}
+
+
+
+
+.link {
+    margin-left: 20px;
+    align-items: center;
+}
+
+.aboutHeader h3 {
+    font-size: 24px;
+    line-height: 1;
+    margin-bottom: 30px;
+}

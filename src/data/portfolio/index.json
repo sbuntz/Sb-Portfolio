@@ -1,0 +1,58 @@
+[
+ 
+  {
+    "id": 1,
+    "title": "InstantCrypto",
+    "thumb": "portfolio-1.jpg",
+    "description":"Pairing cryptocurrency data with recent and relevant news articles related to a specific cryptocurrency",
+    "stack": ["HTML", "CSS", "JQuery"],
+    "sourceCode": "https://github.com/sbuntz/InstantCrypto",
+    "livePreview": "https://sbuntz.github.io/InstantCrypto/"
+  }, 
+  {
+    "id": 2,
+    "title": "Lets Go Somewhere",
+    "thumb": "portfolio-2.jpg",
+    "description":"A site to find new places to visit and post about places you would like to go to",
+    "stack": ["Sequelize", "MySQL", "Leaflet", "Express"],
+    "sourceCode": "https://github.com/sbuntz/party-parrots",
+    "livePreview": "https://party-parrots.herokuapp.com"
+  },
+  {
+    "id": 3,
+    "title": "Book Search Engine",
+    "thumb": "portfolio-3.jpg",
+    "description":"A fully functioning Google Books API search engine built with a RESTful API, and refactor it to be a GraphQL API built with Apollo Server. ",
+    "stack": ["RESTful API", "GraphQl", "Apollo Server"],
+    "sourceCode": "https://github.com/sbuntz/Book-Search-Engine",
+    "livePreview": "https://sb-search-books.herokuapp.com/"
+  },
+  {
+    "id": 4,
+    "title": "Password Generator",
+    "thumb": "portfolio-4.jpg",
+    "description":"An application that enables employees to generate random passwords based on selected criteria",
+    "stack": ["HTML", "CSS", "JavaScripy"],
+    "sourceCode": "https://github.com/sbuntz/Password-Generator",
+    "livePreview": "https://sbuntz.github.io/Password-Generator/"
+  },
+  
+  {
+    "id": 5,
+    "title": "Weather Dashboard",
+    "thumb": "portfolio-5.jpg",
+    "description":"Using the OpenWeather One Call API retrieve weather data for cities display the current forecast and a five day forecast",
+    "stack": ["API", "Java Script", "JQuery"],
+    "sourceCode": "https://github.com/sbuntz/Weather-Dashboard",
+    "livePreview": "https://sbuntz.github.io/Weather-Dashboard/"
+  },
+  {
+    "id": 6,
+    "title": "Live Daily Schedule",
+    "thumb": "portfolio-6.jpg",
+    "description":"To create a simple calendar application that allows a user to save events for each hour",
+    "stack": ["HTML", "CSS", "JavaScript"],
+    "sourceCode": "https://github.com/sbuntz/Work-Schedule",
+    "livePreview": "https://sbuntz.github.io/Work-Schedule/"
+  }
+]

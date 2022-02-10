@@ -1,0 +1,30 @@
+{
+  "thumb": "about.jpg",
+  "name": "Stefanie Buntz",
+  "email": "stbuntz@gmail.com",
+  "phone": "0400 543 545",
+  "role":  "data analyst | data scientist | web developer",
+  "description": "A data consultant passionate about web development and UI",
+  "bio":  "A data consultant passionate about working with organisations that want to make effective use of their data; from the first ideas around what you want to measure and how to capture data accurately, through data preparation, analysis and management, all the way to impactful presentation of insights",
+  "resume": "https://resume.com",
+  "availability": true,
+      "linkedin": "https://www.linkedin.com/in/stefaniebuntz/",
+      "github": "https://github.com/stbuntz",
+  "skills": [
+    {
+      "id": 1,
+      "title": "Data Analytics",
+      "percentage": 98
+    },
+    {
+      "id": 2,
+      "title": "Data Management",
+      "percentage": 90
+    },
+    {
+      "id": 3,
+      "title": "Web Design",
+      "percentage": 80
+    }
+  ]
+}
