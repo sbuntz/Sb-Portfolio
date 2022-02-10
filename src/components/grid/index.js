@@ -9,7 +9,7 @@ const Grid = ({portfolios,  fullWidth}) => {
     return (
         <Fragment>
             <PageContainer classes={'bg-grey mb-100'}>
-                <Container fluid='fullWidth' className='fullWidth'>
+                <Container>
                     <h4 className='portfolioHeader ml-20 mb-20'>Portfolio</h4>
                     <Row className={'row-7 portfolio-column-three masonry-grid'}>
                         {portfolios.map(portfolio => (
