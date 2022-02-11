@@ -574,8 +574,7 @@
     align-items: center;
 }
 
-@media (max-width: 1200px) {
+
     .resume {
         display: none;
     }
-}

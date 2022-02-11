@@ -1,5 +1,7 @@
 import React from 'react';
 import aboutData from '../../data/about-me'
+import GitHubIcon from '@material-ui/icons/GitHub'
+import LinkedInIcon from '@material-ui/icons/LinkedIn'
 
 import './header.css'
 
@@ -21,10 +23,10 @@ const HeaderSocial = () => {
             </button>
             <div className='socials'>
                 <a href={aboutData.linkedin} target="_blank" rel="noopener noreferrer">
-                    <i className='fa fa-linkedin' />
+                <LinkedInIcon />
                 </a>
                 <a href={aboutData.github} target="_blank" rel="noopener noreferrer">
-                    <i className='fa fa-github' />
+                <GitHubIcon />
                 </a>
                 <a className='resume' href={aboutData.resume} target="_blank" rel="noopener noreferrer">
                     resume
