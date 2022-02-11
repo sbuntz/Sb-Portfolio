@@ -14,7 +14,7 @@ import './about.css'
 const AboutPage = () => {
     return (
         <div>
-            <Header />
+            <Header classes={'position-static'}  />
             <SideHeader mobile={true} />
 
             <PageContainer>

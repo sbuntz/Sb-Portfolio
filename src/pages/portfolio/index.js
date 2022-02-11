@@ -12,7 +12,7 @@ const Portfolio = () => {
 
   return (
         <Fragment>
-            <Header classes='position-static'/>
+            <Header classes={'position-static'}/>
             <SideHeader mobile={true}/>
             <MasonryThree portfolios={portfolios}/>
             <Footer/>
