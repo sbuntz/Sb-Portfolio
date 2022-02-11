@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Sb-Portfolio/static/css/main.f3feeaa4.chunk.css",
-    "main.js": "/Sb-Portfolio/static/js/main.82ccf060.chunk.js",
-    "main.js.map": "/Sb-Portfolio/static/js/main.82ccf060.chunk.js.map",
+    "main.css": "/Sb-Portfolio/static/css/main.40c65032.chunk.css",
+    "main.js": "/Sb-Portfolio/static/js/main.ca4a1049.chunk.js",
+    "main.js.map": "/Sb-Portfolio/static/js/main.ca4a1049.chunk.js.map",
     "runtime-main.js": "/Sb-Portfolio/static/js/runtime-main.bf20df1d.js",
     "runtime-main.js.map": "/Sb-Portfolio/static/js/runtime-main.bf20df1d.js.map",
     "static/css/2.f784d1b5.chunk.css": "/Sb-Portfolio/static/css/2.f784d1b5.chunk.css",
-    "static/js/2.7f5f930c.chunk.js": "/Sb-Portfolio/static/js/2.7f5f930c.chunk.js",
-    "static/js/2.7f5f930c.chunk.js.map": "/Sb-Portfolio/static/js/2.7f5f930c.chunk.js.map",
+    "static/js/2.c00bb657.chunk.js": "/Sb-Portfolio/static/js/2.c00bb657.chunk.js",
+    "static/js/2.c00bb657.chunk.js.map": "/Sb-Portfolio/static/js/2.c00bb657.chunk.js.map",
     "index.html": "/Sb-Portfolio/index.html",
-    "precache-manifest.a462c7b22eeba530f8485b940d9b3e71.js": "/Sb-Portfolio/precache-manifest.a462c7b22eeba530f8485b940d9b3e71.js",
+    "precache-manifest.bef908375d9c35981216d734985b3358.js": "/Sb-Portfolio/precache-manifest.bef908375d9c35981216d734985b3358.js",
     "service-worker.js": "/Sb-Portfolio/service-worker.js",
     "static/css/2.f784d1b5.chunk.css.map": "/Sb-Portfolio/static/css/2.f784d1b5.chunk.css.map",
-    "static/css/main.f3feeaa4.chunk.css.map": "/Sb-Portfolio/static/css/main.f3feeaa4.chunk.css.map",
-    "static/js/2.7f5f930c.chunk.js.LICENSE.txt": "/Sb-Portfolio/static/js/2.7f5f930c.chunk.js.LICENSE.txt",
+    "static/css/main.40c65032.chunk.css.map": "/Sb-Portfolio/static/css/main.40c65032.chunk.css.map",
+    "static/js/2.c00bb657.chunk.js.LICENSE.txt": "/Sb-Portfolio/static/js/2.c00bb657.chunk.js.LICENSE.txt",
     "static/media/404.png": "/Sb-Portfolio/static/media/404.ab850eb3.png",
     "static/media/about.jpg": "/Sb-Portfolio/static/media/about.4ee92646.jpg",
     "static/media/index.scss": "/Sb-Portfolio/static/media/fontawesome-webfont.fee66e71.woff",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.bf20df1d.js",
     "static/css/2.f784d1b5.chunk.css",
-    "static/js/2.7f5f930c.chunk.js",
-    "static/css/main.f3feeaa4.chunk.css",
-    "static/js/main.82ccf060.chunk.js"
+    "static/js/2.c00bb657.chunk.js",
+    "static/css/main.40c65032.chunk.css",
+    "static/js/main.ca4a1049.chunk.js"
   ]
 }
