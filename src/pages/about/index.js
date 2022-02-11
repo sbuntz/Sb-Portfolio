@@ -49,7 +49,7 @@ const AboutPage = () => {
                             <Col lg={5} className = 'pr-50 mr-30'>
                             
                             <div className="aboutPicture">
-                                <img className='rounded-circle img-raised' src={require(`../../assets/images/${aboutData.thumb}`)} alt="thumb" />
+                                <img className='rounded-circle img-raised' src={require(`../../assets/images/about.jpg`)} alt="thumb" />
 
                             </div>
                         </Col>
